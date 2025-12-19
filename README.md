@@ -14,7 +14,7 @@ Bloom’s Taxonomy categorizes cognitive skills into six hierarchical levels:
 Each level includes action verbs that help frame questions and learning outcomes.
 
 ## Reference Chart
-![Bloom's Taxonomy Prompts](images/blooms-taxonomy-prompts.png) 
+![Bloom's Taxonomy Prompts](blooms-taxonomy-prompts/blob/main/blooms-taxonomy-prompts.png) 
 
 ## Use Cases
 - Designing lesson objectives
