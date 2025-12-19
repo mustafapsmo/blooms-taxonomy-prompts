@@ -28,6 +28,6 @@ Each level includes action verbs that help frame questions and learning outcomes
 - `README.md` – Documentation and explanation
 
 ##  License
-This resource is shared for **educational use**.  
+This resource is shared for educational use.  
 
 ---
