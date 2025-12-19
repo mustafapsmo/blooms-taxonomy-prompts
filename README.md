@@ -24,7 +24,7 @@ Each level includes action verbs that help frame questions and learning outcomes
 - Instructional design frameworks
 
 ##  File Contents
-- `images/blooms-taxonomy-prompts.png` – Visual reference chart
+- `blooms-taxonomy-prompts.png` – Visual reference chart
 - `README.md` – Documentation and explanation
 
 ##  License
